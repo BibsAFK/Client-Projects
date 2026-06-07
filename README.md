@@ -1,6 +1,8 @@
 # Client Projects
 
-This repository showcases real-world projects developed for business use.
+This repository showcases websites and systems developed for real-world businesses and clients. 
+
+Source code is not publicly available due to project ownership and deployment considerations.
 
 ---
 
