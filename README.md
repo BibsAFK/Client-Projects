@@ -1,2 +1,29 @@
-# client-projects
-Showcase of deployed websites and systems developed for real-world clients and business use.
+# Client Projects
+
+This repository showcases real-world projects developed for business use.
+
+---
+
+## Coral Inn Residency Website
+
+**Status:** Completed & Deployed
+
+A website developed for Coral Inn Residency, providing visitors with information about rooms, facilities, location details, and booking options through a modern and responsive interface.
+
+**Technologies Used**
+
+* React
+* JavaScript
+* Vite
+* HTML
+* CSS
+
+**My Contributions**
+
+* Frontend Development
+* Requirements Gathering
+* Testing & Deployment
+* Basic SEO Optimization
+
+**Live Website**
+[www.coralinnresidency.com](http://www.coralinnresidency.com)
