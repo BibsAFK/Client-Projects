@@ -22,10 +22,12 @@ A website developed for Coral Inn Residency, providing visitors with basic infor
 
 **My Contributions**
 
-* Frontend Development
 * Requirements Gathering
+* Frontend Development
 * Testing & Deployment
+* Website Content Management
 * Basic SEO Optimization
 
 **Live Website**
-[www.coralinnresidency.com](http://www.coralinnresidency.com)
+
+https://www.coralinnresidency.com
