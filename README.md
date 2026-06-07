@@ -10,7 +10,7 @@ Source code is not publicly available due to project ownership and deployment co
 
 **Status:** Completed & Deployed
 
-A website developed for Coral Inn Residency, providing visitors with information about rooms, facilities, location details, and booking options through a modern and responsive interface.
+A website developed for Coral Inn Residency, providing visitors with basic information about rooms, facilities, location details, and booking options through a modern and responsive interface.
 
 **Technologies Used**
 
