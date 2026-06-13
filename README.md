@@ -30,8 +30,8 @@ A responsive business website developed for Coral Inn Residency, providing visit
 
 ### Live Website
 
-https://www.coralinnresidency.com
-
+[https://www.coralinnresidency.com
+](https://www.coralinnresidency.com/)
 ---
 
 ## Casa Vouge Website
