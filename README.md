@@ -1,87 +1,62 @@
 # Client Projects
 
-This repository showcases websites and systems developed for real-world businesses and clients.
-
-Source code is not publicly available due to project ownership, client confidentiality, and deployment considerations.
+This repository highlights websites and systems developed for real businesses and clients.
 
 ---
 
 ## Coral Inn Residency Website
 
-**Status:** Completed & Deployed
+🔗 https://www.coralinnresidency.com
 
-A responsive business website developed for Coral Inn Residency, providing visitors with information about rooms, facilities, location details, contact information, and booking options through a modern and user-friendly interface.
+**Status:** Live
 
-### Technologies Used
+A website developed for Coral Inn Residency, a residency and accommodation provider based in Kerala, India, designed to provide visitors with basic information about the residency and contact details through  user-friendly interface.
 
-* React
-* JavaScript
-* Vite
-* HTML
-* CSS
+**Highlights**
 
-### My Contributions
+* Responsive design for desktop and mobile devices
+* Business information and room details
+* Contact information and inquiry options
+* Basic SEO optimization
+* Deployment and ongoing maintenance
 
-* Requirements Gathering
-* Frontend Development
-* Testing & Deployment
-* Website Content Management
-* Basic SEO Optimization
+**Technologies**
+React • JavaScript • Vite • HTML • CSS
 
-### Live Website
-
-[https://www.coralinnresidency.com
-](https://www.coralinnresidency.com/)
 ---
 
 ## Casa Vouge Website
 
-**Status:** Completed & Deployed
+🔗 https://www.casavouge.com
 
-A modern business website developed for Casa Vouge, a Saudi Arabia–based company. The website was designed to strengthen the company's online presence through professional branding, service presentation, responsive design, and an improved user experience across desktop and mobile devices.
+**Status:** Live
 
-### Technologies Used
+A business website developed for Casa Vouge, a company based in Saudi Arabia. The project focused on creating a professional online presence, presenting services clearly, and ensuring a smooth experience across devices.
 
-* React
-* TypeScript
-* Vite
-* HTML
-* CSS
+**Highlights**
 
-### My Contributions
+* Responsive business website
+* Modern UI and branding implementation
+* Service and content presentation
+* Cross-device compatibility
+* Deployment and post-launch updates
 
-* Requirements Gathering
-* Frontend Development
-* UI/UX Implementation
-* Testing & Deployment
-* Content Integration
-* Responsive Design Optimization
+**Technologies**
+React • TypeScript • Vite • HTML • CSS
 
-### Live Website
-
-[https://casavouge.com
-](https://www.casavouge.com/)
 ---
 
-## Ongoing Projects
+## Currently In Development
 
 ### Coral Inn Residency Management System
 
-**Status:** In Development
+A management system being developed to support day-to-day residency operations, including booking management, guest information handling, and administrative workflows.
 
-A management system being developed to streamline residency operations, including booking management, guest information handling, and administrative workflows.
-
-### Technologies Used
-
-* Python
-* Flask
-* SQLite
-* HTML
-* CSS
-* JavaScript
+**Technologies**
+Python • Flask • SQLite • JavaScript • HTML • CSS
 
 ---
 
-### Additional Information
+## Additional Notes
 
-These projects represent practical experience in working with real-world requirements, client communication, deployment workflows, maintenance, and continuous improvements after launch.
+Source code for these client projects is private and not publicly available. The project summaries above are provided to showcase the scope of work and technologies used while respecting client confidentiality.
